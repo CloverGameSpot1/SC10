@@ -16,12 +16,12 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
+global.owner = ['6285158121779']
+global.premium = ['6285158121779']
+global.ownername = 'yusufGanzz'
+global.botname = 'CloverBot•MD'
 global.packname = '© YahyaGanzz'
-global.gc = 'https://github.com/AzzBott679'
+global.gc = 'https://github.com/CloverGameSpot1'
 global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
 global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
 global.limitawal = '10'
